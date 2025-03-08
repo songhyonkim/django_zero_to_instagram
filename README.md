@@ -7,6 +7,10 @@
 유튜브 : https://youtu.be/M8UPyeF5DfM  
 관련 blog : https://cholol.tistory.com/547
 
+## 테스트 소감 (2025 3. 8.)
+
+* 미완성 (새로운 글 게시 불가 등)
+
 ---
 
 ## 실행
